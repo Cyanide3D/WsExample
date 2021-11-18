@@ -1,4 +1,4 @@
-package ru.ws.example;
+package ru.ws.example.config;
 
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
 import org.springframework.web.socket.config.annotation.EnableWebSocketMessageBroker;
